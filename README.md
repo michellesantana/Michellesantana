@@ -25,7 +25,7 @@ Projetos realizados com dados públicos ou dados codificados para aqueles que n�
 * **Tutorial Completo de Pandas:** http://bit.ly/tutorialcompletopandas
 * **Data Science: Investigando o naufrágio do Titanic:** 
 * **Análise Exploratória de Dados de Vendas do Varejo:**
-* **Previsão de Consumo e Temperatura:** https://github.com/michellesantana/Projetos/tree/main/An%C3%A1lise%20de%20Consumo%20e%20Temperatura-%20ARIMA%20-%20R
+* **Previsão de Consumo e Temperatura:** http://bit.ly/sarimaprevisao
 
 
 
