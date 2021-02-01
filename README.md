@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-Michelle-red.svg)](www.linkedin.com/in/michellecsantana) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![Instagram](https://img.shields.io/badge/Instagram-purple.svg)](https://www.instagram.com/michellesantana.ds/?hl=pt-br)
+[![author](https://img.shields.io/badge/author-Michelle-red.svg)](https://www.linkedin.com/in/michellecsantana) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![Instagram](https://img.shields.io/badge/Instagram-purple.svg)](https://www.instagram.com/michellesantana.ds/?hl=pt-br)
 
 <p align="center">
   <img src="banner.png" >
@@ -14,7 +14,7 @@ Trabalho com análise de dados desde 2011, desenvolvi pensamento analítico e ca
 **Linguagens:** Python e R
 
 **Links:**
-* [LinkedIn](www.linkedin.com/in/michellecsantana)
+* [LinkedIn](https://www.linkedin.com/in/michellecsantana)
 * [Medium](https://medium.com/@michelle.santana)
 * [Instagram](https://www.instagram.com/michellesantana.ds/?hl=pt-br)
 
