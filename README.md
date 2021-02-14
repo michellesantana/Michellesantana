@@ -19,11 +19,16 @@ Trabalho com análise de dados desde 2011, desenvolvi pensamento analítico e ca
 * [Instagram](https://www.instagram.com/michellesantana.ds/?hl=pt-br)
 
 
+## Projetos de Estudo:
+Projetos realizados com dados públicos e com soluções comumente encontradas na internet.
+
+* **Data Science: Investigando o naufrágio do Titanic:** 
+
+
 ## Projetos:
-Projetos realizados com dados públicos ou dados codificados para aqueles que não tenho liberação para divulgação.
+Projetos realizados com dados públicos e/ou com dados privados totalmente codificados de forma que não exponha empresa e a realidade dos dados da empresa.
 
 * **Tutorial Completo de Pandas:** http://bit.ly/tutorialcompletopandas
-* **Data Science: Investigando o naufrágio do Titanic:** 
 * **Análise Exploratória de Dados de Vendas do Varejo:**
 * **Previsão de Consumo e Temperatura:** http://bit.ly/sarimaprevisao
 
