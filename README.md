@@ -23,13 +23,15 @@ Trabalho com análise de dados desde 2011, desenvolvi pensamento analítico e ca
 Projetos realizados com dados públicos e com soluções comumente encontradas na internet.
 
 * **Tutorial Completo de Pandas:** http://bit.ly/tutorialcompletopandas
-* **Data Science: Investigando o naufrágio do Titanic:** 
+* **Agrupamento de spécies de flores:**
+* **Data Science: Investigando o Naufrágio do Titanic:** 
 
 
 ## Projetos:
-Projetos realizados com dados públicos e/ou com dados privados totalmente codificados de forma que não exponha empresa e a realidade dos dados da empresa.
+Projetos realizados com dados públicos e/ou com dados privados totalmente codificados de forma que não exponha a realidade dos dados.
 
 * **Análise Exploratória de Dados de Vendas do Varejo:**
+* **Clusterização de Lojas Semelhantes:**
 * **Previsão de Consumo e Temperatura:** http://bit.ly/sarimaprevisao
 
 
