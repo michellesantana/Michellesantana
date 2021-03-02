@@ -23,7 +23,7 @@ Trabalho com análise de dados desde 2011, desenvolvi pensamento analítico e ca
 Projetos realizados com dados públicos e com soluções comumente encontradas na internet.
 
 * **Tutorial Completo de Pandas:** http://bit.ly/tutorialcompletopandas
-* **Agrupamento de spécies de flores:**
+* **Agrupamento de Espécies de Flores:**
 * **Data Science: Investigando o Naufrágio do Titanic:** 
 
 
