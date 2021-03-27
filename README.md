@@ -27,7 +27,7 @@ Projetos realizados com dados públicos e com soluções comumente encontradas n
 
 
 ## Projetos:
-Projetos realizados com dados públicos e/ou com dados fictícios para aqueles projetos que não podem ter dados expostos.
+Projetos realizados com dados públicos e/ou com dados fictícios (para aqueles projetos que não podem ter dados expostos).
 
 * **Análise Exploratória de Dados de Vendas do Varejo:**
 * **Clusterização de Lojas Semelhantes:**
