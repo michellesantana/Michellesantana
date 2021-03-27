@@ -32,6 +32,7 @@ Projetos realizados com dados públicos e/ou com dados privados totalmente codif
 
 * **Análise Exploratória de Dados de Vendas do Varejo:**
 * **Clusterização de Lojas Semelhantes:**
+* **Sistema de Aprovação de Crédito:** http://bit.ly/SistemaAprovacaodeCredito
 * **Previsão de Consumo e Temperatura:** http://bit.ly/sarimaprevisao
 
 
