@@ -5,11 +5,10 @@
 </p>
 
 # Michelle Santana
-<sub>*Analista de Inteligência* na Cia. Hering </sub>
+<sub>*Analista de Estratégia e Modelagem Financeira* na Ailos </sub>
 
-Formada em Estatística pela Universidade Federal do Pará, hoje sou Analista de Inteligência de Mercado no setor do varejo. Estou retomando os estudos em Ciência de dados e faço MBA em Data Science e Analytics pela USP.
+Formada em Estatística pela Universidade Federal do Pará, fui Analista de Inteligência de Mercado no setor do varejo, agora faço parte do time de Ciência de Dados na Cooperativa Central Ailos. Estudo Ciência de dados e faço MBA em Data Science e Analytics pela USP/ESALQ.
 
-Trabalho com análise de dados desde 2011, desenvolvi pensamento analítico e capacidade de resolver problemas.
 
 **Linguagens:** Python e R
 
