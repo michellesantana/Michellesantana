@@ -10,7 +10,7 @@
 Formada em Estatística pela Universidade Federal do Pará, fui Analista de Inteligência de Mercado no setor do varejo, agora faço parte do time de Ciência de Dados na Cooperativa Central Ailos. Estudo Ciência de dados e faço MBA em Data Science e Analytics pela USP/ESALQ.
 
 
-**Linguagens:** Python e R
+**Linguagens:** Python, R, SAS e SQL
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/michellecsantana)
