@@ -13,7 +13,7 @@
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/michellecsantana)
 * [Medium](https://medium.com/@michelle.santana)
-* [Instagram](https://www.instagram.com/michellesantana.ds/?hl=pt-br)
+* [Instagram](https://www.instagram.com/michelle.csantana/?hl=pt-br)
 
 
 ## **Habilidades:**
