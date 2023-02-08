@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-Michelle-red.svg)](https://www.linkedin.com/in/michellecsantana) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![Instagram](https://img.shields.io/badge/Instagram-purple.svg)](https://www.instagram.com/michellesantana.ds/?hl=pt-br)
+[![author](https://img.shields.io/badge/author-Michelle-red.svg)](https://www.linkedin.com/in/michellecsantana) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![Instagram](https://img.shields.io/badge/Instagram-purple.svg)](https://www.instagram.com/michelle.csantana/)
 
 <p align="center">
   <img src="banner.png" >
