@@ -5,7 +5,7 @@
 </p>
 
 ## **Quem sou eu?**
-* Estudante de Ciência de Dados.
+* Especialista em Modelagem Estatística na Ailos
 * Bacharel em Estatística - UFPA.
 * MBA Data Science e Analytics - USP.
 
@@ -18,12 +18,12 @@
 
 ## **Habilidades:**
 * 👩🏽‍💻Análise de Dados
-* 💻Linguagens: Python, R, SAS e SQL
+* 💻Linguagens: SQL, Pyspark, Python, R e SAS
 * 📈Excel
 * 📊PowerBI - Básico
 
 
-## Alguns Projetos:
+## Alguns Projetos Públicos:
 
 * **Análise Exploratória de Dados de Vendas do Varejo:**
 * **Clusterização de Lojas Semelhantes:**
